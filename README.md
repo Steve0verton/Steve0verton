@@ -6,15 +6,53 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer skilled in SAS, Python, and cloud technologies. My work spans data enrichment, machine learning, and AI-driven solutions. I thrive on building practical tools, automating workflows, and solving real-world business challenges.
+Steve is an accomplished technical advisor and architect with over 15 years of expertise in aligning innovative technologies with strategic business objectives. Specializing in financial crimes, fraud prevention, and regulatory compliance, Steve has extensive experience building, leading, and implementing high-impact technology solutions that transform complex challenges into opportunities for improvement and efficiency.
+
+As a Senior Solutions Advisor at SAS Institute, Steve continually collaborates across presales, product management, and services to deliver value-driven solutions. He has spearheaded significant growth through value-based service expansions. Steve previously founded 6 Degree Intelligence, a predictive analytics and network graph-based solution instrumental in supporting white-collar crime investigations.
+
+Steve holds a Bachelor of Science in Industrial and Systems Engineering from North Carolina State University, is a Certified Anti-Money Laundering Specialist (CAMS), and maintains certifications with SAS, AWS, and Azure. A thought leader and author, he has published extensively in professional journals and conferences, earning repeated recognition at SAS Global Forum.
+
+Steve's career is characterized by a rare blend of technical depth, strategic vision, and entrepreneurial spirit, consistently driving measurable outcomes for organizations across financial services, law enforcement, and public sectors
 
 ---
 
 ## 🛠️ Skills & Expertise
 
-- **Languages:** SAS, Python
-- **Cloud Platforms:** Azure, AWS
-- **Specialties:** Machine Learning, AI, Data Engineering
+- **Languages & Technologies:**
+  - SAS (SAS Viya, SAS Visual Analytics, SAS AML, Enterprise Guide)
+  - Python (Pandas, NumPy, Scikit-learn, Jupyter Notebooks)
+  - SQL (PostgreSQL, Oracle, MS SQL Server, DB2)
+  - Linux/UNIX (Shell scripting, system administration)
+
+- **Cloud Platforms & DevOps:**
+  - Microsoft Azure (Azure Fundamentals Certified)
+  - Amazon Web Services (AWS Cloud Practitioner Certified)
+  - Kubernetes & Docker (Container Orchestration, Deployment)
+  - Infrastructure as Code (AWS CloudFormation, Terraform)
+
+- **Data Engineering & Management:**
+  - Data Warehousing (Dimensional modeling, Star Schema, Snowflake)
+  - ETL Development (SAS Data Integration Studio, DataFlux)
+  - Data Modeling (ERwin, ER Studio)
+  - Data Visualization & Reporting (SAS Visual Analytics, Tableau, Power BI)
+
+- **Machine Learning & AI:**
+  - Predictive Modeling & Forecasting
+  - Network Graph Analytics (Graph theory, Entity resolution)
+  - Fraud Detection & Risk Scoring Models
+  - Natural Language Processing (NLP, AWS Comprehend)
+
+- **Financial Crime & Compliance:**
+  - Anti-Money Laundering (AML) & Regulatory Compliance (CAMS certified)
+  - Transaction Monitoring & Scenario Design
+  - Case Management & Alert Investigation Workflow Automation
+  - Risk Management & Decision Analytics
+
+- **Leadership & Communication:**
+  - Technical Team Leadership & Cross-Functional Collaboration
+  - Business Development & Strategic Partnership Building
+  - Consulting & Advisory Services
+  - Public Speaking & Technical Writing (Published Author, SAS Global Forum)
 
 ---
 
@@ -40,5 +78,5 @@ I'm a passionate Software Engineer skilled in SAS, Python, and cloud technologie
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/overton) (preferred for contact via message)
+- [LinkedIn](https://linkedin.com/in/overton)
 
