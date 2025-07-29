@@ -19,9 +19,9 @@ Steve's career is characterized by a rare blend of technical depth, strategic vi
 ## 🛠️ Skills & Expertise
 
 - **Languages & Technologies:**
-  - SAS (SAS Viya, SAS Visual Analytics, SAS AML, Enterprise Guide)
+  - SAS (SAS Viya, SAS Visual Analytics, SAS AML, SAS Law Enforcement Intelligence, Enterprise Guide)
   - Python (Pandas, NumPy, Scikit-learn, Jupyter Notebooks)
-  - SQL (PostgreSQL, Oracle, MS SQL Server, DB2)
+  - SQL (PostgreSQL, Oracle, DB2)
   - Linux/UNIX (Shell scripting, system administration)
 
 - **Cloud Platforms & DevOps:**
